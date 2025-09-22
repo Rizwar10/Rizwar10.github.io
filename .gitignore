@@ -1,0 +1,43 @@
+# Images and Media Files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.webp
+*.ico
+
+# Specific folders
+/img/
+/images/
+/assets/images/
+/photos/
+/profile/
+
+# Specific files
+profile.jpg
+profile.png
+hero-image.*
+about-photo.*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
