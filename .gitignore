@@ -1,14 +1,11 @@
 # Images and Media Files
-*.jpg
 *.jpeg
-*.png
 *.gif
 *.svg
 *.webp
 *.ico
 
 # Specific folders
-/img/
 /images/
 /assets/images/
 /photos/
