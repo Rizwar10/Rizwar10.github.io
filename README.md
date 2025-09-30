@@ -49,8 +49,8 @@ No special prerequisites are needed. The project uses CDN links for all external
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/data-analytics-portfolio.git
-   cd data-analytics-portfolio
+   git clone https://github.com/Rizwar10/Rizwar10.github.io.git
+   cd Rizwar10.github.io
    ```
 
 2. **Open the project**

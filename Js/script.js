@@ -245,7 +245,6 @@ function initThemeToggle() {
     themeToggle.className = 'fixed top-4 left-4 bg-white border border-gray-300 p-2 rounded-full shadow-md hover:shadow-lg transition-all duration-300 z-40';
     themeToggle.id = 'theme-toggle';
     
-    // Only add if user wants this feature (commented out by default)
     // document.body.appendChild(themeToggle);
     
     if (typeof feather !== 'undefined') {
@@ -318,7 +317,7 @@ window.addEventListener('resize', function() {
     }
 });
 
-// Export functions for testing (if needed)
+// Export functions for testing 
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = {
         isValidEmail,
